@@ -1,4 +1,4 @@
-# trendyolUIAutomation
+# TrendyolUIAutomation
 Trendyol UI Automation with Playwright (Javascript)
 Test Scenarios
 
