@@ -34,6 +34,10 @@ Test Scenarios
 -	Click on “Favorilerim” button 
 -	Verify that number of items listed is 2 and verify that names of the products added to favorites matches with the items listed in “Favorilerim” 
 
+
+
+
+
 5)	Remove product from Favorites in Favorites tab
 -	Go to https://www.trendyol.com/
 -	Hover the Mouse on the Login button 
@@ -83,8 +87,9 @@ Test Scenarios
 -	Hover the Mouse on the Login button 
 -	Click on login button
 -	Type “mertodtu1234@gmail.com” and “Merdomerdo1994” on username and password respectively.
--	Click on “Madame Coco” square button
--	Verify that every item listed on the page has a description that includes “Madame Coco”
+-	Click on “Under Armour” square button
+-	Verify that every item listed on the page has a description that includes “Under Armour”
+-	Verify that number of items listed is matched with number displayed on the page
 
 9)	Add an item to Collection 
 -	Go to https://www.trendyol.com/
@@ -113,4 +118,3 @@ Test Scenarios
 -	Click on “3 dots” button next to “evcil hayvan” collection 
 -	Click on “Koleksiyonu sil” button
 -	Verify that “evcil hayvan” collection is not listed 
-
